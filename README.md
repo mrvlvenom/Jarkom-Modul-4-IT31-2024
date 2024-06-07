@@ -11,7 +11,7 @@
 
 ## VLSM - GNS
 ### TOPOLOGI
-![](https://github.com/mrvlvenom/Jarkom-Modul-4-IT31-2024/blob/main/img/Topologi_GNS.jpg)
+![](https://github.com/mrvlvenom/Jarkom-Modul-4-IT31-2024/blob/main/img/Topologi_GNS.png)
 
 1. Arakis (Router(DHCP Relay))
 ```bash
@@ -43,7 +43,7 @@ iface eth4 inet static
 
 ## CIDR - CPT
 ### TOPOLOGI
-![](https://github.com/mrvlvenom/Jarkom-Modul-4-IT31-2024/blob/main/img/Topologi_CPT.png)
+![](https://github.com/mrvlvenom/Jarkom-Modul-4-IT31-2024/blob/main/img/Topolog_CPT.png)
 
 CIDR atau biasa dikenal Classless Inter-Domain Routing adalah suatu metode pengalamatan dan pengelompokan alamat IP yang memungkinkan penggunaan lebih efisien dari ruang alamat IP yang tersedia di Internet. Sebelum diperkenalkannya CIDR, pengalamatan IP didasarkan pada kelas-kelas, seperti kelas A, kelas B, dan kelas C. Setiap kelas memiliki ukuran tetap untuk jaringan dan host, yang seringkali mengakibatkan pemborosan alamat IP.
 
